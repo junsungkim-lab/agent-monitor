@@ -8,7 +8,7 @@ Claude Code, Codex, Gemini CLI의 세션과 서브에이전트가 화상회의 �
 
 ![화면 예시](docs/screenshot.png)
 
-- **설치할 패키지 없음.** Python 3.9 이상 표준 라이브러리와 HTML 파일 하나.
+- **설치할 패키지 없음.** Python 3.9 이상 표준 라이브러리와 HTML 파일 하나. macOS·Linux에서 확인했습니다.
 - **결과물을 바로 보여줌.** 생성된 이미지·영상의 주소나 파일 경로가 나오면 그 에이전트 타일에서 재생합니다. 버튼 하나로 내려받거나 Finder에서 엽니다.
 - **서브에이전트까지.** 세션이 띄운 서브에이전트가 각자 타일로 들어오고, 각자의 결과를 띄웁니다.
 - **목소리.** 원하면 오픈소스 음성 모델(Supertonic 3)로 로봇마다 다른 목소리를 냅니다.
@@ -17,7 +17,7 @@ Claude Code, Codex, Gemini CLI의 세션과 서브에이전트가 화상회의 �
 ## 빠른 시작
 
 ```bash
-git clone <이 저장소> && cd agent-monitor
+git clone https://github.com/junsungkim-lab/agent-monitor.git && cd agent-monitor
 python3 start.py --open
 ```
 
