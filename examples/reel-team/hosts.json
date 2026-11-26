@@ -1,0 +1,14 @@
+{
+  "lead": "릴스 PD",
+  "role": "Magi 2 호스트",
+  "hosts": [
+    {"n": 1, "slug": "minji", "name": "재테크 민지", "topic": "월급날 루틴", "seconds": 16},
+    {"n": 2, "slug": "junho", "name": "자취요리 준호", "topic": "자취 요리", "seconds": 24},
+    {"n": 3, "slug": "seoyun", "name": "홈트 서윤", "topic": "출근 전 홈트", "seconds": 20},
+    {"n": 4, "slug": "siwoo", "name": "겨울코디 시우", "topic": "겨울 코디", "seconds": 32},
+    {"n": 5, "slug": "doyun", "name": "연말 도윤", "topic": "연말 가볼 곳", "seconds": 28},
+    {"n": 6, "slug": "haeun", "name": "육아 하은", "topic": "아이 재우기", "seconds": 40},
+    {"n": 7, "slug": "jihu", "name": "폰꿀팁 지후", "topic": "폰 배터리 꿀팁", "seconds": 36},
+    {"n": 8, "slug": "yerin", "name": "공부 예린", "topic": "공부 집중법", "seconds": 46}
+  ]
+}

@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+.idea/
+.vscode/
+*.bak-agent-monitor-*
+*.tmp-agent-monitor
+*.part
+.claude/settings.local.json
+examples/reel-team/.claude/settings.local.json
+# 데모 결과물과 개인 영상은 저장소에 넣지 않는다
+examples/reel-team/out/
+examples/reel-team/media/*
+!examples/reel-team/media/README.md
